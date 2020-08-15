@@ -314,8 +314,8 @@
 							if(window.history.replaceState){
 							window.history.replaceState(null, null, window.location.href);
 							}
-							<!--</script>
-							<script language="JavaScript">
+							</script>
+							<!--<script language="JavaScript">
 								// Code for validating the form
 								// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
 								// for details
