@@ -314,7 +314,7 @@
 							if(window.history.replaceState){
 							window.history.replaceState(null, null, window.location.href);
 							}
-							</script>
+							<!--</script>
 							<script language="JavaScript">
 								// Code for validating the form
 								// Visit http://www.javascript-coder.com/html-form/javascript-form-validation.phtml
@@ -324,7 +324,7 @@
 								frmvalidator.addValidation("email","req","Please provide your email"); 
 								frmvalidator.addValidation("email","email","Please enter a valid email address"); 
 							</script>
-
+							-->
 						</div>
 					</section>
 
