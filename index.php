@@ -1,3 +1,4 @@
+<?php include 'sendemail.php'; ?>
 <!DOCTYPE HTML>
 <!--
 	Story by HTML5 UP
