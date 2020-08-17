@@ -325,12 +325,9 @@
 						<!--</div>
 					</section>-->
                     <section class="spotlight style1 orient-left content-align-left image-position-center onscroll-image-fade-in" id="forth">
-						<div class="image">
-							<img src="images/Team.jfif" alt="" />
-						</div>
 						<div class="content">
 							<h2>Contacte-nos</h2>
-							<p>Preciso de um texto para aqui</p>
+							<p>Na Vizer valorizamos a sua opinião e experiência. <b>Entre em contacto connosco!</b></p>
                             <p><b>Email:</b>vizer.drones@gmail.com</p>
                             <p><b>Telemóvel:</b>+351915988611</p>
 						</div>
