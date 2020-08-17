@@ -328,8 +328,8 @@
 						<div class="content">
 							<h2>Contacte-nos</h2>
 							<p>Na Vizer valorizamos a sua opinião e experiência. <b>Entre em contacto connosco!</b></p>
-                            <p><b>Email:</b>vizer.drones@gmail.com</p>
-                            <p><b>Telemóvel:</b>+351915988611</p>
+                            <p><b>Email:</b> vizer.drones@gmail.com</p>
+                            <p><b>Telemóvel:</b> +351915988611</p>
 						</div>
 					</section>
 				<!-- Footer -->
